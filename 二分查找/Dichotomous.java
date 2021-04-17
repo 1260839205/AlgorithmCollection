@@ -8,6 +8,7 @@ import java.util.Scanner;
  * @Author Code Fruit
  * @Email 1260839205@qq.com
  * @Date 2021/4/14 下午9:02
+ * @实现：二分查找
  */
 public class Dichotomous {
 
