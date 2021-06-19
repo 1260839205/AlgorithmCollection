@@ -11,8 +11,12 @@
 
   * 冒泡排序
 
-    参考答案：文件夹排序-->Bubble.java文件
+    文件夹“排序”-->Bubble.java文件
 
   * 选择排序
 
-    参考答案：文件夹排序-->Bubble.java文件
+    文件夹“排序”-->Select.java文件
+
+  * 快速排序
+
+    文件夹“排序”-->QuickSort.java文件
